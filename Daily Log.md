@@ -3,7 +3,7 @@
 ### Day 1: December 17, 2021
 ### The beginning 
 
-**Today's Progress**: Setup GitHub, began to explore its functionalities and I worked on simple very basic C programs. 
+**Today's Progress**: Setup GitHub, began to explore its functionalities and I worked on a couple of simple very basic C programs. 
 
 **Thoughts:** Day 1 and the Journey has begun, let's see what's awaiting next.  
 

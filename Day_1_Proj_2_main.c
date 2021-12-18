@@ -1,5 +1,5 @@
 /* 12-17-21
-This simple program works computes the average of three quantities */
+This simple program computes the average of three quantities */
 
 #include <stdio.h>
 #include <stdlib.h>

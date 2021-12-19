@@ -11,6 +11,12 @@
 
 ### Day 2: December 18, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Continuing with GeekforGeeks C course. working with variables, ranges of data types, basic mathematical calculations and a simple project of electrical engineering circuit.     
+
+**Thoughts:** Day 2, it is getting very interesting and can't wait until I learn more!
+
+### Day 3: December 18, 2021
+
+**Today's Progress**:     
 
 **Thoughts:** 

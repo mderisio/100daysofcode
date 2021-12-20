@@ -15,8 +15,8 @@
 
 **Thoughts:** Day 2, it is getting very interesting and can't wait until I learn more!
 
-### Day 3: December 18, 2021
+### Day 3: December 19, 2021
 
-**Today's Progress**:     
+**Today's Progress**: Learning from GeeksforGeeks C course about global variables, static variables, constants and operator sizeof(). Did a simple program using printf(), scanf(), and calculations.    
 
-**Thoughts:** 
+**Thoughts:** Day 3, There is no way to go back. 

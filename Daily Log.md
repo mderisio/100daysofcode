@@ -20,3 +20,9 @@
 **Today's Progress**: Learning from GeeksforGeeks C course about global variables, static variables, constants and operator sizeof(). Did a simple program using printf(), scanf(), and calculations.    
 
 **Thoughts:** Day 3, There is no way to go back.  
+
+### Day 4: December 20, 2021
+
+**Today's Progress**: Learned a bit about random number generator rand() and seed the rand srand(). Also I implemented a loop for a simple guess game I wanted to code.  
+
+**Thoughts:** Day 4, learning the fundamentals while having fun combining the basics.  

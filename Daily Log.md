@@ -19,4 +19,4 @@
 
 **Today's Progress**: Learning from GeeksforGeeks C course about global variables, static variables, constants and operator sizeof(). Did a simple program using printf(), scanf(), and calculations.    
 
-**Thoughts:** Day 3, There is no way to go back. 
+**Thoughts:** Day 3, There is no way to go back.  

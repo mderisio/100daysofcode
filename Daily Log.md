@@ -23,6 +23,6 @@
 
 ### Day 4: December 20, 2021
 
-**Today's Progress**: Learned a bit about random number generator rand() and seed the rand srand(). Also I implemented a loop for a simple guess game I wanted to code.  
+**Today's Progress**: Learned a bit about random number generator rand() and seed the rand srand(); continuing learning about static variables and literals. Finally, I implemented a loop for a simple guess game I wanted to code.  
 
 **Thoughts:** Day 4, learning the fundamentals while having fun combining the basics.  

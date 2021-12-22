@@ -26,3 +26,9 @@
 **Today's Progress**: Learned a bit about random number generator rand() and seed the rand srand(); continuing learning about static variables and literals. Finally, I implemented a loop for a simple guess game I wanted to code.  
 
 **Thoughts:** Day 4, learning the fundamentals while having fun combining the basics.  
+
+## Day 5: December 21, 2021
+
+**Today's Progress**: Following GeeksforGeeks C programming course I learned more about literals, character and string literals, and type conversion. I wrote a very short and simple program that compute the resonance frequency of a series RLC circuit given the user's input.    
+
+**Thoughts:** Day 5  When I seat down to code, time flies. Having fun!

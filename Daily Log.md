@@ -32,3 +32,17 @@
 **Today's Progress**: Following GeeksforGeeks C programming course I learned more about literals, character and string literals, and type conversion. I wrote a very short and simple program that compute the resonance frequency of a series RLC circuit given the user's input.    
 
 **Thoughts:** Day 5  When I seat down to code, time flies. Having fun!
+
+## Day 6: December 22, 2021
+
+**Today's Progress**: Following GeeksforGeeks C programming course I learned more about literals, character and string literals, and type conversion. I wrote a very short and simple program that compute the resonance frequency of a series RLC circuit given the user's input.    
+
+**Thoughts:** Day 6  When I seat down to code, time flies. Having fun!
+
+## Day 7: December 23, 2021
+
+**Today's Progress**: Today I begun to learn about Input and Output, specifiers for integers and floating point numbers and buffering. Slow but taking time to go over the basics many times.  I wrote an improved version of the "guess the number" game.  
+
+**Thoughts:** Day 7 discipline and consistence are key for progress.  
+
+

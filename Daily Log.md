@@ -41,7 +41,7 @@
 
 ## Day 7: December 23, 2021
 
-**Today's Progress**: Today I begun to learn about Input and Output, specifiers for integers and floating point numbers and buffering. Slow but taking time to go over the basics many times.  I wrote an improved version of the "guess the number" game.  
+**Today's Progress**: Today I began to learn about Input and Output, specifiers for integers and floating point numbers and buffering. Slow but taking time to go over the basics many times.  I wrote an improved version of the "guess the number" game.  
 
 **Thoughts:** Day 7 discipline and consistence are key for progress.  
 

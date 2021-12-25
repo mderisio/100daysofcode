@@ -47,4 +47,4 @@
 
 **Today's Progress**: Short day today but managed to get deeper on scanf() and fgets(), Wrote a short program that calculates the Base current Ib, and emitter current Ie of a Bipolar Junction Transistor, given its Beta B, Collector to Emitter current ICeo, and collector current Ic.
 
-**Thoughts:** Day 8 organizing thw project before begin coding is helps reduce debugging.   
+**Thoughts:** Day 8 organizing thw project before begin coding helps reduce debugging.   

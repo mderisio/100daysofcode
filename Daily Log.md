@@ -7,8 +7,6 @@
 
 **Thoughts:** Day 1 and the Journey has begun, let's see what's awaiting next.  
 
-# 100 Days Of Code - Log
-
 ### Day 2: December 18, 2021
 
 **Today's Progress**: Continuing with GeekforGeeks C course. working with variables, ranges of data types, basic mathematical calculations and a simple project of electrical engineering circuit.     
@@ -45,4 +43,8 @@
 
 **Thoughts:** Day 7 discipline and consistence are key for progress.  
 
+## Day 8: December 24, 2021
 
+**Today's Progress**: Short day today but managed to get deeper on scanf() and fgets(), Wrote a short program that calculates the Base current Ib, and emitter current Ie of a Bipolar Junction Transistor, given its Beta B, Collector to Emitter current ICeo, and collector current Ic.
+
+**Thoughts:** Day 8 organizing thw project before begin coding is helps reduce debugging.   
